@@ -3,6 +3,8 @@
 import xml.dom.minidom
 import pprint
 
+# POLLO
+
 POSITION_SCALE_W = 16
 POSITION_SCALE_H = 8
 DEFAULT_CAMERA_ALTITUDE = 12 
